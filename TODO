@@ -1,0 +1,4 @@
+1. Create a server/api for client to work with
+2. Move everything from sqlite to a server that would use MySQL to store data(we'll use either local setup or some online db service, we'll figure out on the way)
+3. Move ai requests stuff
+
